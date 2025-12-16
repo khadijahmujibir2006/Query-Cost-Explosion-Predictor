@@ -1,0 +1,3 @@
+time,tables,joins,rows,index,aggregation,cost,predicted_cost
+2025-12-16 14:53:48.210043,1,0,1000,0,0,105.0,
+2025-12-16 15:00:57.654200,1,0,1000,0,0,,105.0
